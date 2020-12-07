@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ json-pretty-print
+ clipboard-yank
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+)
+
+;; ----- smex-data -----
+(
+ (clipboard-yank . 4)
+ (json-pretty-print . 1)
+)

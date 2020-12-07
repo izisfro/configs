@@ -1,0 +1,74 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "izisf/")
+ ("/" . "Users/")
+ ("/Users/izisf/Projects/privat/my-app/" . "src/")
+ ("/Users/izisf/Projects/privat/" . "my-app/")
+ ("/Users/izisf/Projects/" . "privat/")
+ ("/Users/izisf/Documents/Projects/testcafe-browser-provider-saucelabs/" . "src/")
+ ("/Users/izisf/Documents/Projects/" . "testcafe-browser-provider-saucelabs/")
+ ("/Users/izisf/Documents/" . "Projects/")
+ ("/Users/izisf/" . "Documents/")
+ ("/Users/izisf/.emacs.d/" . "config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/izisf/"
+ "/Users/izisf/Documents/"
+ "/Users/izisf/Projects/privat/my-app/src/"
+ "/Users/izisf/.emacs.d/config/"
+ "/Users/izisf/Projects/kubeconfigs/"
+ "/Users/izisf/Documents/Projects/testcafe-browser-provider-saucelabs/"
+ "/Users/izisf/Documents/Projects/testcafe-browser-provider-saucelabs/src/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bash_profile"
+ "homebrew_komm.txt"
+ ".#homebrew_kommandoer.txt"
+ "index.js"
+ "bindings.el"
+ "config"
+ "package.json"
+ "registrering.json"
+ "gui.el"
+ "packages.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/izisf/Projects/kubeconfigs/" (24522 15782 668379 246000) "configcp" ".git/" "README.md" "CODEOWNERS" "config" "LICENSE.md" "../" "./")
+
+ ("/Users/izisf/Documents/" (24520 59520 929060 670000) "Risikoliste Info-om-meg-10052019.xlsx" "Brukere fra Infotrygd - IARBS+VURDI - maksdato(Automatisk gjenopprettet).xlsx" "2019.01.22 Varsel_fodselsperm.docm" "2019.01.22 Varsel_fodselsperm.pdf" "images.png" "Kravskjema-2.5.3.izis.docx" "Bilder/" "kubernetes" "Krav skjema[1].docm" "Kodesnutter/" "møtereferat_oppfolgingskontoret" "veilarbperson.json" "NAV_BrowserStack_Automate Mobile Enterprise_20P_20U_with Unlimited Live_Proposal_29.11.2019[1].pdf" "CV2020.docx" "Ny backend app" "Lønnskrav 2.5.1 Akademikerne.docm" "alertnotater" "salesforce" "Zoom/" "teamregistrering.txt" "0b0f1d4442d7bb49933b59680689a8c8.jpg" "DeltagerDiplomPdf.pdf" "Uten navn.drawio" "Programmer/" "user-2.json" "AI" "Abraha" "ambisjon_dialog_uttrekk.xlsx" "confluence_rydding" "lønnsslipp_09_2019.pdf" "nav_grorud.txt" "Teknisk tester/" "pipeline.docx" "oracle_docker_brukermanual" "Risikovurdering" "Spesialtilpasset benkeplate.pdf" "fzf_kommandoer.txt" "NAV - Søknad om barnetrygd ordinær (1).pdf" "arbeidssokerregistrering_modell_fullfør_sykmeldt.docx" "testbruker.txt" ".#homebrew_komm.txt" "recovery_codes.txt" "emoji/" "decorator.html" "Møtenotater - Innføring i aktivitetsplan.docx" "Kopi av FSDRIFT-12616 Brukere fra Infotrygd 5 - maxdato juni 2019 Q0 - VURDI.xls" "Browsertesting.txt" "Projects/" "Skjermbilder/" "sikkerhet-kurs" "Arbeidssøkerregistrering" "browserstack.txt" "CV2020.pdf" ".localized" "brukertest_12apr" "lønnsslipp_nov.png" "dialog_sortering.txt" "sette_opp_fagsystem.txt" ".#homebrew_kommandoer.txt" "brukertest" "teste_avslutt_oppfolging" "sykmeldtRegistrering.txt" ".DS_Store" "IKEA Home Planner.pdf" "lønnsslipp_nov.pdf" "ISTQB kurs/" "arbeidssokerregistrering_modell.docx" "test av registrering.docx" "Case Teknisk Tester.docx" "nito" "Kjøkken_kostnader.xlsx" "foreldrepenger_enring_vedtak.pdf" "pipelinetegning.png" "Privat/" "kravskjema.docm" "seksjonsmøte-praktisk" "iPhoneXS_kvittering.pdf" "55988719768-1004970103-ticket[1]-kopi.pdf" "../" "./")
+
+ ("/Users/izisf/" (24522 17098 217797 74000) "java_error_in_INTELLIJCLIENT.hprof" ".viminfo" ".bash_history" ".gitconfig" "Downloads/" ".bash_profile" ".m2/" "NAV/" "Documents/" ".vmware/" ".npm/" "java_error_in_idea.hprof" ".Trash/" "Applications/" "Movies/" ".ssh/" ".sonarlint/" ".kube/" ".git_coauthors" ".k9s/" ".fzf.bash" "Public/" ".fzf.zsh" ".bash_sessions/" ".cups/" ".android/" ".lpass/" "java_error_in_INTELLIJCLIENT_16017.log" ".node_repl_history" ".emacs.d/" "OneDrive - NAV/" ".lesshst" ".npmrc" "Library/" "Desktop/" "Pictures/" "Projects/" ".bash_profile~" ".zshrc" "flyway.conf" ".bashrc" "ToolsAndThemes/" ".CFUserTextEncoding" "VirtualBox VMs/" ".DS_Store" ".github-token-docker" "Tools/" ".node-gyp/" ".docker/" "database/" "Music/" ".config/" "../" "./")
+
+ ("/Users/izisf/Documents/Projects/testcafe-browser-provider-saucelabs/" (23885 19305 684781 830000) "src/" ".travis.yml" ".git/" "#package.json#" "Gulpfile.js" "package.json" ".gitignore" "appveyor.yml" "README.md" ".editorconfig" "utils/" "node_modules/" ".eslintrc" "test/" "LICENSE" "../" "./")
+
+ ("/Users/izisf/.emacs.d/config/" (24518 12296 5618 591000) "bindings.el" "osx.el" "gui.el" "defuns.el" "#packages.el#" "custom.el" "plugins.el" "packages.el" "../" "./")
+
+ ("/Users/izisf/Projects/privat/my-app/src/" (24518 12164 867296 562000) "index.css" "index.js" "../" "./")
+
+ ("/Users/izisf/Applications/" (24370 35339 907391 693000) "JetBrains Toolbox/" ".DS_Store" "../" "./")
+
+ ("/Users/" (24176 58436 0 0) "izisf/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/izisf/Projects/privat/my-app/" (24360 91 407754 717000) "src/" ".idea/" ".git/" "package.json" "package-lock.json" ".gitignore" "public/" "README.md" "node_modules/" "../" "./")
+
+ ("/Users/izisf/Projects/privat/" (24359 64691 266506 562000) "my-app/" "../" "./")
+
+ ("/Users/izisf/Projects/" (24510 9848 176753 431000) "arbeidssokerregistrering/" "veientilarbeid/" "veilarbdirigent/" "veilarbvedtakinfo/" "veilarbvisittkortfs/" "jenkins-dsl-scripts/" "fo-session-timeout-modal/" "kubeconfigs/" "aktivitetsplan/" "veilarbdialog/" "start-samtale/" "veilarboppgave/" "registreringsinformasjon/" "veilarbaktivitet/" "veilarbregistrering/" "pto-meta/" "arbeid-situasjon/" "pto-config/" ".DS_Store" "privat/" "veilarblest/" "veilarboppfolging/" "behovsvurdering/" "../" "./")
+
+ ("/Users/izisf/.emacs.d/" (24518 11828 543882 549000) "vendor/" ".backup/" ".git/" "elpa/" "#.backup#" "network-security.data" ".gitignore" "init.el" "auto-save-list/" "ido.last~" "config/" "smex-items" "ido.last" "ac-comphist.dat" "../" "./")
+
+ ("/Users/izisf/Documents/Projects/testcafe-browser-provider-saucelabs/src/" (23881 21207 751413 428000) "index.js" ".babelrc" "../" "./")
+
+ ("/Users/izisf/Documents/Projects/" (23881 21065 329087 85000) "mia/" "arbeidssokerregistrering/" "slette-privat-modus/" "veientilarbeid/" "aktivitetsplan/" "fo-dialog/" "testcafe-browser-provider-saucelabs/" "registreringsinformasjon/" "tiltakinfo/" ".DS_Store" "behovsvurdering/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
